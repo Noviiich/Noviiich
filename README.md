@@ -30,8 +30,8 @@
       <td>gRPC сервис на Go на примере сервера авторизации с полноценной архитектурой, готовой к продакшену. </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Noviiich/todo-fiber-pgx"><b>🤖 TODO Tasks Template</b></a></td>
-      <td>RESTful API приложение для работы с задачами </td>
+      <td><a href="https://github.com/Noviiich/todo-fiber-pgx"><b>🧠 TODO Tasks Template</b></a></td>
+      <td>RESTful API приложение для работы с задачами и документацией</td>
     </tr>
   </tbody>
 </table>
