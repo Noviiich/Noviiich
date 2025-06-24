@@ -33,5 +33,9 @@
       <td><a href="https://github.com/Noviiich/todo-fiber-pgx"><b>🧠 TODO Tasks Template</b></a></td>
       <td>RESTful API приложение для работы с задачами и документацией</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Noviiich/vk-worker-pool"><b>👾 Worker Pool</b></a></td>
+      <td>Реализация паттерна Worker Pool с динамическим добавлением воркеров для обработки задач</td>
+    </tr>
   </tbody>
 </table>
